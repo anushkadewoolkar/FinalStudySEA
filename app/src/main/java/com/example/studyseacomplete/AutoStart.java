@@ -10,10 +10,6 @@ import androidx.annotation.RequiresApi;
 
 import java.util.Calendar;
 
-/**
- * Created by austin on 10/26/17.
- */
-
 public class AutoStart extends BroadcastReceiver {
     @RequiresApi(api = Build.VERSION_CODES.N)
     @Override

@@ -15,9 +15,6 @@ import static com.example.studyseacomplete.TaskDatabase.COLUMN_ID;
 import static com.example.studyseacomplete.TaskDatabase.TABLE_ALLTASKS;
 import static java.text.DateFormat.getDateTimeInstance;
 
-/**
- * studySEA
- */
 
 class Task {
     private HashMap<String, String> properties = new HashMap<>();

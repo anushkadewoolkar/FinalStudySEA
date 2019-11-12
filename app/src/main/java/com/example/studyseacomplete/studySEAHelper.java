@@ -48,7 +48,7 @@ public class studySEAHelper {
         return studySEAHelper.flashcardDao().getAll(); //defined in DAO
     }
 
-    ///updates flashcard info in database
+    //updates flashcard info in database
     public void updateCard(Flashcard flashcard)
     {
         studySEAHelper.flashcardDao().update(flashcard); //defined in DAO

@@ -3,10 +3,6 @@ package com.example.studyseacomplete;
 import android.app.Application;
 import android.content.Context;
 
-/**
- * studySEA
- */
-
 public class HomeworkPlanner extends Application {
     private static Application sApplication;
 
